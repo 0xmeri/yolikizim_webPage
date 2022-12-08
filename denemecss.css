@@ -1,2 +1,22 @@
 @charset "utf-8";
 /* CSS document */
+
+@charset "utf-8";
+
+.banner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    height: 250px;
+    background-color: aqua;
+    /* background-image: url("resim.png"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.deneme{
+    height: 50px;
+    background-color: blue;
+}
+p{color: blueviolet;}
